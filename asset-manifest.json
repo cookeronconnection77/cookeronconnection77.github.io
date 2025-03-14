@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.84220a08.css",
-    "main.js": "/static/js/main.d5682d6e.js",
+    "main.css": "/static/css/main.5d07341a.css",
+    "main.js": "/static/js/main.8072ec3e.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.799376b4.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.b4318df3.chunk.js",
     "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.02c67aa6.chunk.js",
@@ -61,8 +61,8 @@
     "static/media/VainillaChake-removebg-preview.png": "/static/media/VainillaChake-removebg-preview.30cd8d72809a5323f7b3.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.84220a08.css.map": "/static/css/main.84220a08.css.map",
-    "main.d5682d6e.js.map": "/static/js/main.d5682d6e.js.map",
+    "main.5d07341a.css.map": "/static/css/main.5d07341a.css.map",
+    "main.8072ec3e.js.map": "/static/js/main.8072ec3e.js.map",
     "reactPlayerYouTube.799376b4.chunk.js.map": "/static/js/reactPlayerYouTube.799376b4.chunk.js.map",
     "reactPlayerSoundCloud.b4318df3.chunk.js.map": "/static/js/reactPlayerSoundCloud.b4318df3.chunk.js.map",
     "reactPlayerVimeo.02c67aa6.chunk.js.map": "/static/js/reactPlayerVimeo.02c67aa6.chunk.js.map",
@@ -83,7 +83,7 @@
     "453.4328bebf.chunk.js.map": "/static/js/453.4328bebf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84220a08.css",
-    "static/js/main.d5682d6e.js"
+    "static/css/main.5d07341a.css",
+    "static/js/main.8072ec3e.js"
   ]
 }
